@@ -1,6 +1,10 @@
 # M-ALERT 🚨
 
-**M-ALERT** is a smart Android utility that intercepts M-PESA SMS notifications and replaces the default system sound with custom audio alerts based on the transaction type.
+Have you ever gotten a notification from your phone hoping it was an MPESA message only to find out it is an advertising SMS? Or have you ever gotten an MPESA message but don't know if it is money you have received, sent, or just a balance message that came late? 
+
+**Introducing M-ALERT.**
+
+M-ALERT is a smart Android utility that intercepts M-PESA SMS notifications and replaces the default system sound with custom audio alerts based on the transaction type.
 
 ## ✨ Features
 - **Custom Sounds:** Distinct alerts for Money Received, Money Sent/Paid, Balance Inquiries, and System Errors.
